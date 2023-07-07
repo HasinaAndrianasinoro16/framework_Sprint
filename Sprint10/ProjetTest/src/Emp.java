@@ -43,7 +43,7 @@ public class Emp {
         view.addItem("lst", this.listEmp());
         view.addItem("test", 12);
 
-        System.out.println("etu1839.framework.Employe.findAll()");
+        System.out.println("etu1762.framework.Employe.findAll()");
         
         return view;
     }
